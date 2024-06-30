@@ -1,1 +1,13 @@
-# CS250
+# CS250- Sprint Review and Retrospective
+
+How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+
+In order to interpret user needs, you should actively listen to their feedback and observe their behavior. Try to understand their main points, goals, and preferences. Once you have a good grasp of their needs, you can translate them into user stories. User stories are short, simple descriptions of a feature from the perspective of the end-user. They typically follow the format: "As a [user role], I want [goal] so that [benefit]." For example, "As a traveler, I want to see personalized deals so that I can save money on my trips." User stories help to keep the development team focused on delivering value to the user. They also provide a clear and concise way to communicate requirements. In the SNHU travel project, user stories were created based on feedback from a focus group meeting with prospective users. These user stories then guided the development of the application, ensuring that it met the needs of the target audience.
+
+How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
+
+When developing programs, it's important to have a clear understanding of the requirements and to break down the work into smaller, manageable pieces. Agile processes, such as Scrum, can be very helpful in this regard. Scrum emphasizes collaboration, frequent feedback, and the ability to adapt to change. In my future development work, I hope to incorporate Agile practices such as daily stand-ups, sprint planning, and sprint reviews. These practices help to keep the team aligned, ensure that progress is being made, and allow for adjustments to be made as needed. By incorporating Agile processes, I believe that I can deliver higher quality software that better meets the needs of the users.
+
+What does it mean to be a good team member in software development?
+
+Being a good team member in software development involves more than just technical skills. It also requires strong communication, collaboration, and problem-solving skills. A good team member is reliable, proactive, and willing to help others. They are also open to feedback and willing to learn from their mistakes. In the SNHU travel project, I learned the importance of clear communication and collaboration. For example, when there was a change in direction from the stakeholders, I had to communicate this change to the team and work with them to adapt our plans. By being a good team member, I was able to contribute to the success of the project and build strong relationships with my colleagues.
